@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Навчальний проєкт з курсу веб-програмування">
+  <title>Бондарчук П. С. — Веб-програмування</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Аналіз Смартфонів</div>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Головна</a></li>
+        <li><a href="about.html">Про автора</a></li>
+        <li><a href="contacts.html">Контакти</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Бондарчук П. С.</h1>
+    <p>Здобувач 1 курсу спеціальності «Кібербезпека та інформаційні технології».</p>
+
+    <h2>Тема навчального проєкту</h2>
+    <p>
+      Протягом семестру розробляється інформаційно-довідковий веб-ресурс, 
+      присвячений аналізу апаратного забезпечення сучасних смартфонів, 
+      оптиці мобільних камер та архітектурі мобільних операційних систем.
+    </p>
+
+    <h2>Перелік технологій, що вивчаються</h2>
+    <ul>
+      <li><strong>HTML</strong> — структура та семантична розмітка документа</li>
+      <li><strong>CSS</strong> — стилізація, CSS-змінні та Flexbox-верстка</li>
+      <li><strong>JavaScript</strong> — базова інтерактивність та динаміка</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Бондарчук П. С. Усі права захищено.</p>
+  </footer>
+</body>
+</html>
